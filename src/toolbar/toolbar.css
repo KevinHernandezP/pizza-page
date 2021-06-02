@@ -1,0 +1,18 @@
+/*Navbar*/
+.textonav{
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    font-size: 30px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+.negro{
+    color: black;
+    background-color: black;
+}
+.icono:hover{
+    color: red;
+}

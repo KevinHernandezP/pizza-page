@@ -1,0 +1,19 @@
+.ima{
+    width: 150px;
+    transition: transform .8s ease-in-out;
+
+}
+.contenido{
+    background-color: #FCCC4C;
+    display: block;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 20px;
+}
+.ima:hover{
+    transform: rotate(50deg);
+    cursor: pointer;
+
+}
